@@ -1,0 +1,12 @@
+This folder contains two archives,
+
+vhci-1.4-binaries.zip- contains all the binaries for USB over IP implementation, its developed in Mono C#.
+
+vhci-hcd-1.14.tar.bz2- contains all source code and drivers
+
+For more information refer to wiki,
+
+"http://sourceforge.net/apps/mediawiki/usb-vhci/index.php?title=Main_Page"
+
+
+Note: The driver and the code is succcessfully implemented and tested in Linux kernel versions 2.6 and above . It doesnt work in currents kernel realeases version 3.0 and above.
